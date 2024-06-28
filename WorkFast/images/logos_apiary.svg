@@ -1,0 +1,48 @@
+<svg width="60.000000" height="61.000000" viewBox="0 0 60 61" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip0_389">
+			<rect width="60.000000" height="60.703125" transform="translate(-0.628052 -0.078125)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<linearGradient id="paint_linear_0_392_0" x1="59.217407" y1="12.880600" x2="-0.628052" y2="12.880600" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#37BDA6"/>
+			<stop offset="1.000000" stop-color="#8AD3B8"/>
+		</linearGradient>
+		<linearGradient id="paint_linear_0_393_0" x1="59.217407" y1="34.474670" x2="-0.628052" y2="34.474670" gradientUnits="userSpaceOnUse">
+			<stop offset="0.500000" stop-color="#4BB6AD"/>
+			<stop offset="1.000000" stop-color="#78BBC1"/>
+		</linearGradient>
+		<linearGradient id="paint_linear_0_394_0" x1="29.294542" y1="34.474667" x2="59.217018" y2="34.474667" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#4379A7"/>
+			<stop offset="1.000000" stop-color="#7CC9B8"/>
+		</linearGradient>
+	</defs>
+	<rect width="60.000000" height="60.703125" transform="translate(-0.628052 -0.078125)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip0_389)">
+		<g opacity="0.500000">
+			<path d="M29.29 8.56L29.29 25.8L44.26 17.16L44.26 -0.08L29.29 8.56Z" fill="#13A049" fill-opacity="1.000000" fill-rule="nonzero"/>
+		</g>
+		<g opacity="0.500000">
+			<path d="M29.29 8.56L14.33 -0.08L14.33 17.2L29.29 25.84L29.29 8.56Z" fill="#A2CC39" fill-opacity="1.000000" fill-rule="nonzero"/>
+		</g>
+		<g opacity="0.900000">
+			<path d="M44.26 -0.08L29.3 8.56L14.33 -0.08L-0.63 8.56L29.3 25.84L59.21 8.56L44.26 -0.08Z" fill="url(#paint_linear_0_392_0)" fill-opacity="1.000000" fill-rule="nonzero"/>
+		</g>
+		<path d="M29.3 25.84L-0.63 8.56L-0.63 25.84L14.33 34.48L14.33 51.74L29.3 60.38L44.26 51.74L44.26 34.48L59.21 25.84L59.21 8.56L29.3 25.84Z" fill="url(#paint_linear_0_393_0)" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path d="M29.29 25.84L29.29 60.38L44.26 51.74L44.26 34.48L59.21 25.84L59.21 8.56L29.29 25.84Z" fill="url(#paint_linear_0_394_0)" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<g opacity="0.050000">
+			<path d="M29.29 43.1L29.29 60.38L44.26 51.74L29.29 43.1Z" fill="#231F20" fill-opacity="1.000000" fill-rule="nonzero"/>
+		</g>
+		<g opacity="0.100000">
+			<path d="M29.29 60.42L29.29 43.14L14.33 51.78L29.29 60.42Z" fill="#231F20" fill-opacity="1.000000" fill-rule="nonzero"/>
+		</g>
+		<g opacity="0.050000">
+			<path d="M14.33 17.2L-0.63 25.84L14.33 34.48L29.3 25.84L14.33 17.2Z" fill="#231F20" fill-opacity="1.000000" fill-rule="nonzero"/>
+		</g>
+		<g opacity="0.050000">
+			<path d="M44.26 17.2L29.29 25.84L44.26 34.48L59.21 25.84L44.26 17.2Z" fill="#231F20" fill-opacity="1.000000" fill-rule="nonzero"/>
+		</g>
+	</g>
+</svg>
